@@ -2,7 +2,7 @@
 * [general advices](## general advices)
 * [for Young people](## Young people)
 * [for Kid edu](## kid edu)
-* [misc](##misc)
+* [misc](## misc)
  
 
 ## general advices
