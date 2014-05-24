@@ -1,8 +1,8 @@
 # Life Advices
-* [general advices](##general-advices)
-* [for Young people](##Young-people)
-* [for Kid edu](##kid-edu)
-* [misc](##misc)
+* [general advices](#general-advices)
+* [for Young people](#Young-people)
+* [for Kid edu](#kid-edu)
+* [misc](#misc)
  
 
 ##general advices
