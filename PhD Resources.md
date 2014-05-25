@@ -1,10 +1,10 @@
 # PhD resources
-* [Research methodology](#Research-methodology)
-    * [Read literature](#Read-literature)
-    * [Experimental Design](#Experimental-Design)
-    * [Notebook](#Notebook)
-    * [Manuscript](#Manuscript)
-* [Scientific](#Scientific)
+* [Research methodology](#research-methodology)
+    * [Read literature](#read-literature)
+    * [Experimental Design](#experimental-Design)
+    * [Notebook](#notebook)
+    * [Manuscript](#manuscript)
+* [Scientific](#scientific)
 * [Voiceover](#voiceover)
 
 ##Research methodology
