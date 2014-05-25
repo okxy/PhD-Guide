@@ -1,3 +1,3 @@
-#Authos
+#Authors
 ---
 * your name
