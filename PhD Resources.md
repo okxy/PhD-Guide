@@ -1,7 +1,7 @@
 # PhD resources
 * [Research methodology](#research-methodology)
     * [Read literature](#read-literature)
-    * [Experimental Design](#experimental-Design)
+    * [Experimental Design](#experimental-design)
     * [Notebook](#notebook)
     * [Manuscript](#manuscript)
 * [Scientific](#scientific)
