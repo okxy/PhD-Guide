@@ -1,3 +1,12 @@
-PhD Guide
+#PhD Guide
 ===
-[How to contribute?](https://github.com/okxy/PhD-Guide/wiki/How-to-contribute%3F)
+Some useful information for PhD candidates from the Internet.
+
+##Contributing
+
+* Add sections (optional)
+* Add section title to the contents, on the top
+* Add your links (make sure to add a link title)
+* Add your name to the authors list
+* Send a Pull Request
+
